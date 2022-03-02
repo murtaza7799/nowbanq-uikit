@@ -88,7 +88,7 @@ const Menu: React.FC<NavProps> = ({
 
   const topBannerHeight = isMobile ? TOP_BANNER_HEIGHT_MOBILE : TOP_BANNER_HEIGHT;
 
-  const totalTopMenuHeight = banner ? MENU_HEIGHT + topBannerHeight : MENU_HEIGHT;
+  const totalTopMenuHeight = banner ? MENU_HEIGHT  : MENU_HEIGHT;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -129,7 +129,7 @@ const Menu: React.FC<NavProps> = ({
     <MenuContext.Provider value={{ linkComponent }}>
       <Wrapper>
         <FixedContainer showMenu={showMenu} height={totalTopMenuHeight}>
-          
+        
           <StyledNav>
             <Flex>
               <Logo isDark={isDark} href={homeLink?.href ?? "/"} />
