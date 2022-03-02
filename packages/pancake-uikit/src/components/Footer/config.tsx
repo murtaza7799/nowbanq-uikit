@@ -7,28 +7,21 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "http://nowbanq.com/contactus",
       },
       {
         label: "Blog",
-        href: "https://pancakeswap.medium.com/",
+        href: "http://nowbanq.com/blog",
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "http://nowbanq.com/community",
       },
       {
         label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
+        href: "http://nowbanq.com/cake",
       },
-      {
-        label: "—",
-      },
-      {
-        label: "Online Store",
-        href: "https://pancakeswap.creator-spring.com/",
-        isHighlighted: true,
-      },
+    
     ],
   },
   {
@@ -36,15 +29,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: "Support http://nowbanq.com/customer",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "http://nowbanq.com/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "http://nowbanq.com/get-started",
       },
     ],
   },
@@ -53,23 +46,20 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        href: "http://nowbanq.com/github",
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: "http://nowbanq.com/documentation",
       },
-      {
-        label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
-      },
+    
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        href: "http://nowbanq.com/audits",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "http://nowbanq.com/careers",
       },
     ],
   },
@@ -79,7 +69,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "http://nowbanq.com/twitter",
   },
   {
     label: "Telegram",
@@ -87,85 +77,33 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
-      },
-      {
-        label: "Datch",
-        href: "https://t.me/PancakeSwap_DE",
-      },
-      {
-        label: "Filipino",
-        href: "https://t.me/Pancakeswap_Ph",
-      },
-      {
-        label: "ქართული ენა",
-        href: "https://t.me/PancakeSwapGeorgia",
+        href: "http://nowbanq.com/telegram",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
+        href: "http://nowbanq.com/announcements",
       },
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://reddit.com/r/pancakeswap",
+    href: "http://nowbanq.com/reddit",
   },
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "http://nowbanq.com/instagram",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
+    href: "http://nowbanq.com/github",
   },
   {
     label: "Discord",
     icon: "Discord",
-    href: "https://discord.gg/pancakeswap",
+    href: "http://nowbanq.com/discord",
   },
 ];
 
