@@ -76,7 +76,7 @@ const MenuItem: React.FC<FooterProps> = ({
           justifyContent="space-between"
         >
           <Flex order={[2, null, 1]} alignItems="center">
-            <ThemeSwitcher isDark={isDark} toggleTheme={toggleTheme} />
+           
             <LangSelector
               currentLang={currentLang}
               langs={langs}
@@ -96,7 +96,7 @@ const MenuItem: React.FC<FooterProps> = ({
               scale="sm"
               endIcon={<ArrowForwardIcon color={lightColors.backgroundAlt} />}
             >
-              {buyCakeLabel}
+              {"Buy NWB"}
             </Button>
           </Flex>
         </StyledToolsContainer>
