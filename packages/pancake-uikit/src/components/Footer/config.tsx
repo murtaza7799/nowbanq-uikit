@@ -7,19 +7,19 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "http://nowbanq.com/contactus",
+        href: "https://nowbanq.com/contactus",
       },
       {
         label: "Blog",
-        href: "http://nowbanq.com/blog",
+        href: "https://nowbanq.com/blog",
       },
       {
         label: "Community",
-        href: "http://nowbanq.com/community",
+        href: "https://nowbanq.com/community",
       },
       {
         label: "CAKE",
-        href: "http://nowbanq.com/cake",
+        href: "https://nowbanq.com/cake",
       },
     
     ],
@@ -29,15 +29,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support http://nowbanq.com/customer",
+        href: "Support https://nowbanq.com/customer",
       },
       {
         label: "Troubleshooting",
-        href: "http://nowbanq.com/troubleshooting",
+        href: "https://nowbanq.com/troubleshooting",
       },
       {
         label: "Guides",
-        href: "http://nowbanq.com/get-started",
+        href: "https://nowbanq.com/get-started",
       },
     ],
   },
@@ -46,20 +46,20 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "http://nowbanq.com/github",
+        href: "https://nowbanq.com/github",
       },
       {
         label: "Documentation",
-        href: "http://nowbanq.com/documentation",
+        href: "https://nowbanq.com/documentation",
       },
     
       {
         label: "Audits",
-        href: "http://nowbanq.com/audits",
+        href: "https://nowbanq.com/audits",
       },
       {
         label: "Careers",
-        href: "http://nowbanq.com/careers",
+        href: "https://nowbanq.com/careers",
       },
     ],
   },
@@ -69,7 +69,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "http://nowbanq.com/twitter",
+    href: "https://nowbanq.com/twitter",
   },
   {
     label: "Telegram",
@@ -77,33 +77,33 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://nowbanq.com/telegram",
+        href: "https://nowbanq.com/telegram",
       },
       {
         label: "Announcements",
-        href: "http://nowbanq.com/announcements",
+        href: "https://nowbanq.com/announcements",
       },
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "http://nowbanq.com/reddit",
+    href: "https://nowbanq.com/reddit",
   },
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "http://nowbanq.com/instagram",
+    href: "https://nowbanq.com/instagram",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "http://nowbanq.com/github",
+    href: "https://nowbanq.com/github",
   },
   {
     label: "Discord",
     icon: "Discord",
-    href: "http://nowbanq.com/discord",
+    href: "https://nowbanq.com/discord",
   },
 ];
 
