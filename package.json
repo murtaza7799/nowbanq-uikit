@@ -1,20 +1,11 @@
 {
-  "name": "pancake-toolkit",
+  "name": "nowbanq-toolkit",
   "version": "1.0.0",
-  "description": "Pancake frontend packages",
+  "description": "Nowbnaq frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
-  },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
