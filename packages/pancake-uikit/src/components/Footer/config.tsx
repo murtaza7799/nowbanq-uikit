@@ -17,10 +17,7 @@ export const footerLinks: FooterLinkType[] = [
         label: "Community",
         href: "https://nowbanq.com/community",
       },
-      {
-        label: "CAKE",
-        href: "https://nowbanq.com/cake",
-      },
+     
     
     ],
   },
@@ -46,7 +43,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "https://nowbanq.com/github",
+        href: "https://github.com/nowbanq",
       },
       {
         label: "Documentation",
@@ -98,7 +95,7 @@ export const socials = [
   {
     label: "Github",
     icon: "Github",
-    href: "https://nowbanq.com/github",
+    href: "https://github.com/nowbanq",
   },
   {
     label: "Discord",
