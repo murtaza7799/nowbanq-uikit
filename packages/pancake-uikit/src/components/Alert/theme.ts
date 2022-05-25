@@ -1,8 +1,8 @@
-import { darkColors, lightColors } from "../../theme/colors";
+import { darkColors } from "../../theme/colors";
 import { AlertTheme } from "./types";
 
 export const light: AlertTheme = {
-  background: lightColors.backgroundAlt,
+  background: darkColors.backgroundAlt,
 };
 
 export const dark: AlertTheme = {
