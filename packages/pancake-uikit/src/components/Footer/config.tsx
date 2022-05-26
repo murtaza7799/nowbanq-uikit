@@ -66,7 +66,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://nowbanq.com/twitter",
+    href: "https://twitter.com/nowbanq",
   },
   {
     label: "Telegram",
@@ -74,18 +74,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://nowbanq.com/telegram",
+        href: "https://t.me/+fwXZQaKD1AVkNmY8",
       },
-      {
-        label: "Announcements",
-        href: "https://nowbanq.com/announcements",
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://nowbanq.com/announcements",
+      // },
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://nowbanq.com/reddit",
+    href: "https://www.reddit.com/u/nowbanq",
   },
   {
     label: "Instagram",
