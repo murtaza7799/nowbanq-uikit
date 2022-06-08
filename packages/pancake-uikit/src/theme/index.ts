@@ -26,6 +26,7 @@ export interface PancakeTheme {
   shadows: Shadows;
   radii: Radii;
   zIndices: ZIndices;
+  
 }
 
 export { darkColors, lightColors } from "./colors";
