@@ -90,7 +90,7 @@ export const socials = [
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://nowbanq.com/instagram",
+    href: "https://www.instagram.com/nowbanq/",
   },
   {
     label: "Github",
